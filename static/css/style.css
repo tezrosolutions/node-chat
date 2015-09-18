@@ -1,0 +1,20 @@
+div.conversation {
+
+    height: 500px;
+
+    overflow-y: scroll;
+
+    border: 1px solid #000;
+
+    padding: 10px;
+
+}
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
